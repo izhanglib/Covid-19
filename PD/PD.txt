@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Professional Development</title>
+<link rel="stylesheet" href="hw1Week3.css">
+</head>
+
+<body> 
+
+<header>
+<h1>Izzy's Professional Development during Covid-19 Lockdown</h1> 
+</header>
+
+
+<header>
+<h2>Graphic Design Courses</h2>
+</header>
+
+<section>
+<p>In a library setting, I may be asked to design a poster or a webpage. To find a way to improve my graphic design skills, 
+I took the <a href="https://coursera.org/verify/7H82QFBCXQW3" target="_blank"><b>Fundamentals of Graphic Design</b></a>, an online course organised by California Institute of Arts (CalArts).
+I learned the concept of denotation and connotation and earned some hands-on experiences in managing shape, colour, rhythm and pattern in the image-making process.
+By taking the <a href="https://coursera.org/verify/AVJBEG95BLLE" target="_blank"><b>Introduction to Typography</b></a>, I learned that a selected typo looks good is an important, but the 
+connotation of that specific typo also should be well considered. Additionally, I also briefly touched <a href="https://coursera.org/verify/UYBD3ASFRQPU" target="_blank"><b>The Ideas from the History of Graphic Design</b></a>, 
+for example, the implications of Bauhaus in contemporary graphic design.</p> 
+</section>
+
+<div>
+<p>Below are two patterns I designed using <b>Adobe Illustrator</b>.</p>
+<embed src="Week 3 - Sails - Small.pdf" width="25%"></embed>
+<embed src="Square and Triangle.pdf" width="25%"></embed>
+<p>Below are two short articles I wrote regarding logo design.</p>
+<embed src="Week 3.pdf" width="25%"></embed>
+<embed src="Week 4.pdf" width="25%"></embed> 
+</div>
+
+<header>
+<h2>Professional Communication Courses</h2>
+</header>
+
+<section>
+<p>I attended three online courses organised by Georgia Institute of Technology (GeorgiaTech). By taking the course <b>Write Professional Emails</b>, I learned the high/low context communications as well as age 
+and gender considerations when writing professional emails. By taking the course <b>Speaking Professionally in Person, Online and On the Phone</b>, I learned how to build a positive business relationship with a 
+customer through small talk and elevator speech. I learned and set up a personal e-portfolio after taking the course <b>Build Your Professional ePortfolio</b>. I have a better understanding on the role of e-portfolio in
+ professional networking and job hunting. I am better prepared to help a customer to set up his or her one in the future.</p>
+</section>
+
+<div>
+<img src="Capture1.png" alt="Writing" width="15%"> 
+<img src="Capture2.png" alt="Speaking" width="15%"> 
+<img src="Capture3.png" alt="ePortfolio" width="15%"> 
+</div>
+
+<header>
+<h2>Auckland Libraries: Whakatipu i te reo Māori e-learning</h2>
+</header>
+
+<section>
+<p>I did two e-learnings - <b>Auckland Libraries: <i>Whakatipu i te reo Māori</i> - Module 1: <i>Whakahuahua</i>/Pronunciation</b> and <b>Module 2: <i>Ngā kupu ā Pātaka Kōrero</i></b> 
+to refresh what I learned in the night class at Unitec in 2018. By taking the e-learnings, I reviewed the pronunciation of <i>te reo</i>, including vowels, consonants, etc. and learned some new words 
+in <i>te reo</i> in a library setting, such as <i>whare pukapuka</i> meaning library. Using translation apps, I also created my own version of <i>mihimihi</i> and recorded it in the audio track below. 
+When I come back to Te Manawa, I am happy to present it in front of my colleages.</p> 
+
+<ul class="ul">
+  <li><i>Tena koutou kua huihui mai nei.</i></li>
+  <li><i>Ko Izzy toku ingoa.</i></li>
+  <li><i>I whanau ahau i Haina.</i></li>
+  <li><i>Kua maha nga tau e noho nei au ki Aotearoa.</i></li>
+  <li><i>Kei te mahi au i Te Manawa.</i></li>
+  <li><i>Pai ki te whakatau ia koutou katoa.</i></li>
+  </ul>  
+
+<audio src="093304.mp3" controls alt="Mihimihi"></audio>
+</section>
+
+<header>
+<h2>Auckland Libraries: Personal Safety and Security e-learning</h2>
+</header>
+
+<section>
+<p>Through case studies in a library setting, I learned the most appropriate response to a workplace safety and security
+ incident, either resolve it or minimize the risk. I also learned New Zealand legislations concerning workplace safety and security.  After taking the course, I have a better understanding on
+ what an assault is, under what circumstance an action could  be justified as self-defense and how much force is appropriate under a specific circumstance, as well as how to deal with a trespass
+ incident. The course helped me to be better prepared when an workplace safety and security incident does happen.</p>
+</section>
+
+<div>
+<embed src="Certificate.pdf" width="40%"></embed>
+</div>
+
+<header>
+<h2>Web development and coding courses - HTML5, CSS3 and JavaScript</h2>
+</header>
+
+<section>
+<p>I have been learning web development and coding with the University of Michigan (UMich) since mid-April. I have completed the <a href="https://coursera.org/verify/QDW67P8ECFED" target="_blank"><b>Introduction to HTML5</b></a>
+ and <a href="https://coursera.org/verify/UGZ787Y66M6T" target="_blank"><b>Introduction to CSS3</b></a>. This webpage as a whole as well as the moving block below was coded by myself using the skills I learned from those two courses. 
+Now I am working on the third course <b>Interactivity with JavaScript</b>.</p>
+</section>
+
+<div class="ani"></div>
+
+<header>
+<h2>Set up Te Manawa Wikipedia Entry </h2>
+</header>
+
+<section>
+<p>Upon Te Manawa manager’s request, I created the <a href="https://en.wikipedia.org/wiki/Te_Manawa_(Westgate)" target="_blank">Te Manawa</a> entry on Wikipedia. 
+I did some Wikipedia editing before, so I have some knowledge and skills on Wikipedia encoding. But to create an entry from scratch was new to me. After a couple of failed attempts, 
+I realised that to create a new entry is way complicated than carrying out some editing on current entries. By committing more time and efforts, I managed to set up a Te Manawa entry that met 
+the Wikipedia standards and ever since I took the responsibility to maintainance.</p>
+</section>
+
+<header>
+<h2>ANZAC Commemoration</h2>
+</header>
+
+<section class="left">
+<p>I created a mini animation (a .gif file) to commemorate this year's ANZAC Day (see right). GIF file sometimes does not work well on a specific browser. Hopefully, it works well on your browser.</p>
+<p>Below is my ANZAC coin collection. The 50&cent on the left was issued by New Zealand Reserve Bank to commemorate the 100th anniversary of ANZAC in 2018 and the $1 on the right was issued by Australia.</p> 
+<br>
+<img src="Coin_collection.JPG" alt="Coin collection" width="60%">
+</section>
+
+<section class="right">
+<img src="ANZAC.gif" alt="ANZAC" width="80%">
+</section>
+
+<header>
+<h2>Keep myself fit during lockdown</h2>
+</header>
+
+<section class="left">
+<p>Playing table tennis at home. Please click the button to play the video clip. </p>
+<br> 
+<video src="IMG_4487.mp4" controls width="80%" alt="Table Tennis"></video> 
+<br>
+</section>
+
+<section class="right">
+<p>A one and half hour walk from home to Te Manawa during Alert Level 4. </p>
+<br>
+<img src="IMG_20200422_091721.jpg" alt="Walk" width="80%">
+</section>
+
+</body>
+
+</html>
+
